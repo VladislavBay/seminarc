@@ -1,0 +1,15 @@
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\obj\Debug\net6.0\SEMINAR_001.csproj.AssemblyReference.cache
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\obj\Debug\net6.0\SEMINAR_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\obj\Debug\net6.0\SEMINAR_001.AssemblyInfoInputs.cache
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\obj\Debug\net6.0\SEMINAR_001.AssemblyInfo.cs
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\obj\Debug\net6.0\SEMINAR_001.csproj.CoreCompileInputs.cache
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\bin\Debug\net6.0\SEMINAR_001.exe
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\bin\Debug\net6.0\SEMINAR_001.deps.json
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\bin\Debug\net6.0\SEMINAR_001.runtimeconfig.json
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\bin\Debug\net6.0\SEMINAR_001.dll
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\bin\Debug\net6.0\SEMINAR_001.pdb
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\obj\Debug\net6.0\SEMINAR_001.dll
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\obj\Debug\net6.0\refint\SEMINAR_001.dll
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\obj\Debug\net6.0\SEMINAR_001.pdb
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\obj\Debug\net6.0\SEMINAR_001.genruntimeconfig.cache
+C:\Users\bayan\OneDrive\Рабочий стол\SEMINAR2\SEMINAR_001\obj\Debug\net6.0\ref\SEMINAR_001.dll
